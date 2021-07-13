@@ -1,6 +1,6 @@
 # UAS_PBO_4423_A11.2019.12307
         Nama:Alfina Sora
-        Nim: A11.2019.12291
+        Nim: A11.2019.12307
         Kelas: A11.4423
 
 # Persewaan Buku XYZ
